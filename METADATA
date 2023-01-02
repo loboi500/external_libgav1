@@ -1,15 +1,3 @@
-name: "libgav1"
-description:
-    "Google's decoder implementation of the AV1 video codec."
-
-third_party {
-  url {
-    type: HOMEPAGE
-    value: "http://go/libgav1-doc"
-  }
-  url {
-    type: PIPER
-    value: "//depot/google3/third_party/libgav1"
-  }
-  license_type: NOTICE
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:a3c109fe50244b35882b60badd4412f3a5c6c5680ec686c811001748426a0b90
+size 274
